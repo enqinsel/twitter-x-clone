@@ -32,6 +32,7 @@ export default function Menu() {
             }
             <More></More>
             <New></New>
+
         </nav>
     )
 }
